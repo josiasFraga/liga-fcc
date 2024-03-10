@@ -1,0 +1,46 @@
+.card {
+    border: 1px solid #d2d6de;
+    border-radius: 4px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+  }
+  
+  .card-header {
+    padding: 10px 15px;
+    border-bottom: 1px solid #d2d6de;
+    background-color: #f7f7f7;
+  }
+  
+  .card-title {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .card-body {
+    padding: 15px;
+  }
+  
+  dl.dl-horizontal dt {
+    width: 200px;
+    float: left;
+    clear: left;
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 5px;
+  }
+  
+  dl.dl-horizontal dd {
+    margin-left: 220px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 5px;
+  }
+  
+  .card-tools {
+    float: right;
+  }

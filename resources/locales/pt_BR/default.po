@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "List of"
+msgstr "Lista de"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Fill in to start search"
+msgstr "Digite para iniciar a pesquisa"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "View"
+msgstr "Visualizar"
+
+msgid "Confirm to delete this entry?"
+msgstr "Confirmar exclusão deste registro?"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Form"
+msgstr "Formulário"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Information"
+msgstr "Informação"
+
+msgid "The %s has been saved."
+msgstr "%s foi salvo."
+
+msgid "The %s could not be saved. Please, try again."
+msgstr "%s não pôde ser salvo. Por favor, tente novamente."
+
+msgid "The %s has been deleted."
+msgstr "%s foi excluído."
+
+msgid "The %s could not be deleted. Please, try again."
+msgstr "%s não pôde ser excluído. Por favor, tente novamente."
+
+msgid "Sign in to start your session"
+msgstr "Faça login para iniciar sua sessão"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "Sign in using Facebook"
+msgstr "Faça login usando Facebook"
+
+msgid "Sign in using Google+"
+msgstr "Faça login usando Google+"
+
+msgid "I forgot my password"
+msgstr "Esqueci minha senha"
+
+msgid "Register a new membership"
+msgstr "Registrar novo usuário"
+
+msgid "Remember Me"
+msgstr "Lembrar-me"
+
+msgid "Sign In"
+msgstr "Entrar"
+
+msgid "Username or password is incorrect"
+msgstr "Nome de usuário ou senha incorretos"
+
+msgid "Alert"
+msgstr "Alerta"
+
+msgid "Click here to change the file."
+msgstr "Clique aqui para mudar o arquivo."
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Home"
+msgstr "Início"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Service"
+msgstr "Serviço"
+
+msgid "Service Category"
+msgstr "Categoria de Serviço"
+
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+msgid "first"
+msgstr "primeira"
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "next"
+msgstr "próxima"
+
+msgid "last"
+msgstr "última"
+
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Página {{page}} de {{pages}}, mostrando {{current}} registro(s) de um total de {{count}}"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "Address"
+msgstr "Endereço"
+
+msgid "Address Number"
+msgstr "Número"
+
+msgid "Address Complement"
+msgstr "Complemento do Endereço"
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Postal Code"
+msgstr "CEP"
+
+msgid "Neighborhood"
+msgstr "Bairro"
+
+msgid "Created"
+msgstr "Criado"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Active Signature"
+msgstr "Assinatura Ativa"
+
+msgid "Signature Status"
+msgstr "Status da Assinatura"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Service Providers"
+msgstr "Prestadores de Serviço"
+
+msgid "Services"
+msgstr "Serviços"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Category Id"
+msgstr "ID da Categoria"
+
+msgid "Subcategory Id"
+msgstr "ID da Subcategoria"
+
+msgid "Price Unit"
+msgstr "Unidade de Preço"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "Subcategory"
+msgstr "Subcategoria"
+
+msgid "Service Provider"
+msgstr "Prestador de Serviço"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Doctor"
+msgstr "Médico"
+
+msgid "Patients"
+msgstr "Pacientes"
+
+msgid "Birth Date"
+msgstr "Data de Nascimento"
+
+msgid "Marital Status"
+msgstr "Estado Civil"
+
+msgid "Identity Number"
+msgstr "Número de Identidade"
+
+msgid "Home Type"
+msgstr "Tipo de Residência"
+
+msgid "Workplace"
+msgstr "Local de Trabalho"
+
+msgid "Family Income"
+msgstr "Renda Familiar"
+
+msgid "Health Card Number"
+msgstr "Número do Cartão de Saúde"
+
+msgid "Lfcc Date"
+msgstr "Data LFCC"
+
+msgid "Affected Organ"
+msgstr "Órgão Afetado"
+
+msgid "Date Of Death"
+msgstr "Data do Óbito"
+
+msgid "The Patient has been saved"
+msgstr O paciente foi salvo"
+
+msgid "Print"
+msgstr Imprimir"
+
+msgid "Reports"
+msgstr Relatórios"
+
+msgid "Death Report"
+msgstr Relatório de Óbitos"
