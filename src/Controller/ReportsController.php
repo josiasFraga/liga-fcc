@@ -60,6 +60,7 @@ class ReportsController extends AppController
         $patients = $this->Patients->find('all')
         ->where($conditions)
         ->orderAsc('date_of_death')
+        ->all()
         ->toList();
 
         // Agrupar os registros por mês e calcular o total de óbitos para cada mês
