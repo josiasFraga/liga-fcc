@@ -27,7 +27,7 @@ use Cake\Core\Configure; ?>
         <a class="h1" href="<?php echo $this->Url->build(); ?>"><?php echo Configure::read('CakephpLteCakephpLteTheme.logo.large') ?></a>
       </div>
       <div class="card-body">
-        <p class="login-box-msg">Sign in to start your session</p>
+        <p class="login-box-msg">Faça login para iniciar sua sessão</p>
  <?php echo $this->Flash->render(); ?>
       <?php echo $this->Flash->render('auth'); ?>
         <?php echo $this->fetch('content'); ?>
